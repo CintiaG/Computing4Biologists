@@ -4,7 +4,7 @@ Author: Cintia Gómez-Muñoz
 
 Created: May 1, 2019
 
-Updated: May 3, 2021
+Updated: June 1, 2021
 
 ---
 
@@ -171,7 +171,7 @@ squeue
 If you only want to see your jobs:
 
 ```bash
-squeue -l -u usuario
+squeue -l -u user
 ```
 
 ## Installing additional programs
