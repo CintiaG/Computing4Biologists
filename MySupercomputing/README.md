@@ -237,9 +237,9 @@ A typical **Slurm** script may contain the [following structure](https://www.you
 6. Copy data from scratch
 7. Remove temporary files
 
-The minimal SBATH directives are partition (`#SBATCH –p short`) and time (`#SBATCH –t 0-1:00`).
+The minimal SBATCH directives are partition (`#SBATCH –p short`) and time (`#SBATCH –t 0-1:00`).
 
-An SBATH directives example is as follows:
+An SBATCH directives example is as follows:
 
 ```bash
 #!/bin/bash
