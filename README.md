@@ -17,3 +17,4 @@ This repository is mainly addressed to people new to supercomputing and server a
 Current content of this repository:
 
 * **MySupercomputing:** Introduction to **VPN** and **SSH** connection protocols and basic instructions to run jobs in a supercomputer.
+* **MyRsync:** Simple tutorial to synchronize information with remote server.
